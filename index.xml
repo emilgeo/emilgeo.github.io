@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Emil&#39;s Hub</title>
-    <link>https://emilg.me/</link>
+    <link>https://emilg.dev/</link>
     <description>Recent content on Emil&#39;s Hub</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 06 May 2020 14:10:23 +0530</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2020 21:39:11 +0530</lastBuildDate>
     
-	<atom:link href="https://emilg.me/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://emilg.dev/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Having a rainy day fund</title>
-      <link>https://emilg.me/posts/rainy-day-fund/</link>
+      <link>https://emilg.dev/posts/rainy-day-fund/</link>
       <pubDate>Tue, 19 May 2020 21:39:11 +0530</pubDate>
       
-      <guid>https://emilg.me/posts/rainy-day-fund/</guid>
+      <guid>https://emilg.dev/posts/rainy-day-fund/</guid>
       <description>&lt;p&gt;The entire world is facing an unprecedented challenge. Companies are shutting down and people are being let off with no other choice. 2020 is turning out to be a huge learning curve for humans. Along with the pandemic, comes the economic responsibility, people need money to buy groceries, fulfill other needs and support their families. So I thought I&amp;rsquo;d write about an &lt;strong&gt;easy and effective&lt;/strong&gt; way you can maintain a rainy day fund for urgent cash needs.&lt;/p&gt;
 &lt;p&gt;There are tens of methods you can choose to start saving. Today I&amp;rsquo;ll stick with an interesting one that I&amp;rsquo;m very fond of - &lt;em&gt;Recurring deposits&lt;/em&gt;. Now what is it and how does it work? Most of you might be aware of the term, but if not:&lt;/p&gt;
 &lt;blockquote&gt;
@@ -33,11 +33,11 @@
     
     <item>
       <title>Get in touch</title>
-      <link>https://emilg.me/contact/</link>
+      <link>https://emilg.dev/contact/</link>
       <pubDate>Wed, 06 May 2020 14:10:23 +0530</pubDate>
       
-      <guid>https://emilg.me/contact/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;d love to hear from you! &lt;em&gt;Say hello&lt;/em&gt; :)   &lt;a href=&#34;mailto:hi@emilg.me&#34;&gt;hi@emilg.me&lt;/a&gt;&lt;/p&gt;
+      <guid>https://emilg.dev/contact/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;d love to hear from you! &lt;em&gt;Say hello&lt;/em&gt; :)   &lt;a href=&#34;mailto:hi@emilg.dev&#34;&gt;hi@emilg.dev&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

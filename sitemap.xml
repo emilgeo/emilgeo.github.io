@@ -1,48 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
-    <loc>https://emilg.me/categories/</loc>
+    <loc>https://emilg.dev/categories/</loc>
     <lastmod>2020-05-19T21:39:11+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://emilg.me/categories/finance/</loc>
+  </url><url>
+    <loc>https://emilg.dev/</loc>
     <lastmod>2020-05-19T21:39:11+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://emilg.me/posts/rainy-day-fund/</loc>
+  </url><url>
+    <loc>https://emilg.dev/categories/finance/</loc>
     <lastmod>2020-05-19T21:39:11+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://emilg.me/categories/investing/</loc>
+  </url><url>
+    <loc>https://emilg.dev/posts/rainy-day-fund/</loc>
     <lastmod>2020-05-19T21:39:11+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://emilg.me/posts/</loc>
+  </url><url>
+    <loc>https://emilg.dev/categories/investing/</loc>
     <lastmod>2020-05-19T21:39:11+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://emilg.me/</loc>
+  </url><url>
+    <loc>https://emilg.dev/posts/</loc>
+    <lastmod>2020-05-19T21:39:11+05:30</lastmod>
+  </url><url>
+    <loc>https://emilg.dev/contact/</loc>
     <lastmod>2020-05-06T14:10:23+05:30</lastmod>
+  </url><url>
+    <loc>https://emilg.dev/series/</loc>
+  </url><url>
+    <loc>https://emilg.dev/tags/</loc>
   </url>
-  
-  <url>
-    <loc>https://emilg.me/contact/</loc>
-    <lastmod>2020-05-06T14:10:23+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://emilg.me/series/</loc>
-  </url>
-  
-  <url>
-    <loc>https://emilg.me/tags/</loc>
-  </url>
-  
 </urlset>
